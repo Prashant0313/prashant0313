@@ -23,9 +23,9 @@ I'm passionate about cybersecurity, ethical hacking, and penetration testing. I 
 - **Security Tools:** Custom scripts for automation and security assessments
 
 ### 📫 Connect With Me:
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/prashant-kushwah-6890b71b1/)**
-- 🐦 **[Twitter](#)** (if applicable)
-- 📧 **prakush.ram@gmail.com**
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/prashant-kush/)**
+- 🐦 **[Twitter]([#](https://x.com/PRAKUSH2611))** 
+- 📧 **prashant.kushwah0313@gmail.com**
 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashant0313&show_icons=true&theme=radical)
