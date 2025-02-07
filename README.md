@@ -24,7 +24,7 @@ I'm passionate about cybersecurity, ethical hacking, and penetration testing. I 
 
 ### 📫 Connect With Me:
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/prashant-kush/)**
-- 🐦 **[Twitter]([#](https://x.com/PRAKUSH2611))** 
+- 🐦 **[Twitter](https://x.com/PRAKUSH2611)** 
 - 📧 **prashant.kushwah0313@gmail.com**
 
 ### 📊 GitHub Stats:
